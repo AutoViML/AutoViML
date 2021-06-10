@@ -1,19 +1,22 @@
-<h1 align="center">Hi 👋, I'm Ram Seshadri</h1>
-<h3 align="center">I am a Data Scientist and an Open Source contributor and collaborator</h3>
+<h1 align="center">Hi 👋, This is the home of AutoViML</h1>
+<h3 align="center">We create innovative Open Source libraries focused on providing big leaps in data scientists' and machine learning engineers' productivity. </h3>
 
-- 🔭 I’m currently working on [deep_autoviml](https://github.com/AutoViML/deep_autoviml)
+- 🔭 We are currently working on improving [deep_autoviml](https://github.com/AutoViML/deep_autoviml) which makes building tf.keras models and pipelines as easy as possible ("single line of code") while providing numerous options to customize the model and pipeline to your most stringent needs (with even a "bring your own model" option!)
 
-- 🌱 I’m currently teaching in Coursera about [Machine Learning for Trading](https://www.coursera.org/specializations/machine-learning-trading)
+- 🌱 If you want to know more about what we do, just take a look at the following projects we have completed:
 
-- 🤝 I’m looking for help with [Projects](https://github.com/AutoViML?tab=projects)
+- 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code.
+- 🤝 [AutoViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code.
+- 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows
+- 🤝 [featurewiz]https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code..
 
-- 👨‍💻 All of my projects are available at [Auto_ViML](https://github.com/AutoViML)
+- 👨‍💻 All of our projects are available at [Auto_ViML](https://github.com/AutoViML)
 
-- 💬 Ask me about **Deep Learning, Automated ML, Automated Visualization**
+- 💬 Ask us about **Deep Learning, Automated ML, Automated Visualization**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ram-seshadri-nyc-nj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="shankarpandala" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ram-seshadri-nyc-nj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ram seshadri" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
