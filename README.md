@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is the home of AutoViML</h1>
-<h3 align="center">We create innovative Open Source libraries focused on providing big leaps in data scientists' and machine learning engineers' productivity. </h3>
+<h3 align="center">We create innovative Open Source libraries focused on providing big leaps in data scientists' and machine learning engineers' productivity! </h3>
 
 - 🔭 We are currently working on improving [deep_autoviml](https://github.com/AutoViML/deep_autoviml) which makes building tf.keras models and pipelines as easy as possible ("single line of code") while providing numerous options to customize the model and pipeline to your most stringent needs (with even a "bring your own model" option!)
 
@@ -8,7 +8,7 @@
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code.
 - 🤝 [AutoViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code.
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows
-- 🤝 [featurewiz]https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code..
+- 🤝 [featurewiz](https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code..
 
 - 👨‍💻 All of our projects are available at [Auto_ViML](https://github.com/AutoViML)
 
