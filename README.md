@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, This is the home of AutoViML</h1>
-<h3 align="center">We create innovative Open Source libraries focused on providing big leaps in data scientists' and machine learning engineers' productivity! </h3>
+<h3 align="center">We create innovative Open Source libraries focused on providing big leaps in productivity for data scientists and machine learning engineers! </h3>
 
 - 🔭 We are currently working on building [deep_autoviml](https://github.com/AutoViML/deep_autoviml) which makes building tf.keras models and pipelines as easy as possible ("single line of code") while providing numerous options to customize the model and pipeline to your most stringent needs (with even a "bring your own model" option!)
 
