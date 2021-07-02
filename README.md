@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, This is the home of AutoViML</h1>
-<h3 align="center">We create innovative Open Source libraries focused on providing big leaps in productivity for data scientists and machine learning engineers! </h3>
+<h1 align="center">Hi 👋, Welcome to AutoViML</h1>
+<h3 align="center">We create innovative Open Source libraries that make data scientists' and machine learning engineers' lives easier and more  productive! </h3>
 
-- 🔭 We are currently working on building [deep_autoviml](https://github.com/AutoViML/deep_autoviml) which makes building tf.keras models and pipelines as easy as possible ("single line of code") while providing numerous options to customize the model and pipeline to your most stringent needs (with even a "bring your own model" option!)
+- 🔭 We have just open sourced our most innovative product to date: [deep_autoviml](https://github.com/AutoViML/deep_autoviml), which makes building tf.keras models and pipelines as easy as 1-2-3 ("similar to the fit-predict model of scikit-learn") while providing numerous options to tinker with the model and pipeline to meet your most stringent needs (with even a "bring your own model" option!) 
 
-- 🌱 <b>Projects we have completed</b>:
+- 🌱 <b>Other innovative projects we have completed</b>:
 
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code.
 - 🤝 [AutoViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code.
