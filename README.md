@@ -6,11 +6,11 @@
 - 🌱 <b>Other innovative projects we have completed</b>:
 
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code.
-- 🤝 [AutoViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code.
+- 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code.
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows
 - 🤝 [featurewiz](https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code..
 
-- 👨‍💻 All of our projects are open source and available here at [Auto_ViML](https://github.com/AutoViML)
+- 👨‍💻 All of our projects are open source and available here at [AutoViML](https://github.com/AutoViML)
 
 - 💬 You can learn more about **Deep Learning, Automated ML, Automated Visualization** by perusing the README pages here.
 
