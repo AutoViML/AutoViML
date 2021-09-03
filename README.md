@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to AutoViML. We just hit 1000 stars collectively on Github!</h1>
+<h1 align="center">Hi 👋, Welcome to AutoViML. We just hit 1200 stars collectively on Github!</h1>
 <h3 align="center">We create innovative Open Source libraries that make data scientists' and machine learning engineers' lives easier and more  productive! </h3>
 
 - 🔭 We have just open sourced our most innovative product to date: [deep_autoviml](https://github.com/AutoViML/deep_autoviml), which makes building tf.keras models and pipelines as easy as 1-2-3 ("similar to the fit-predict model of scikit-learn") while providing numerous options to tinker with the model and pipeline to meet your most stringent needs (with even a "bring your own model" option!) 
