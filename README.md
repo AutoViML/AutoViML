@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, Welcome to AutoViML. We just hit 1200 stars collectively on Github!</h1>
+<h1 align="center">Hi 👋, Welcome to AutoViML. We just hit 1300 stars collectively on Github!</h1>
 <h3 align="center">We create innovative Open Source libraries that make data scientists' and machine learning engineers' lives easier and more  productive! </h3>
 
-- 🔭 We have just open sourced our most innovative python library to date: [deep_autoviml](https://github.com/AutoViML/deep_autoviml), which makes building tf.keras models and pipelines as easy as 1-2-3 ("similar to the fit-predict model of scikit-learn") while providing numerous options to tinker with the model and pipeline to meet your most stringent needs (with even a "bring your own model" option!) 
+- 🔭 We have just open sourced our most innovative python library to date: [deep_autoviml](https://github.com/AutoViML/deep_autoviml), which makes building tf.keras models and pipelines as easy as the "fit and predict" syntax of scikit-learn while providing numerous options to tinker with model and pipeline layers to meet your most stringent demands (with even a "bring your own model" option!) 
 
 - 🌱 <b>Other innovative projects we have completed</b>:
 
@@ -10,7 +10,7 @@
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows
 - 🤝 [featurewiz](https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code..
 
-- 👨‍💻 All of our projects are open source and available here at [AutoViML](https://github.com/AutoViML)
+- 👨‍💻 All of our projects are open sourced and available here at [AutoViML](https://github.com/AutoViML)
 
 - 💬 You can learn more about **Deep Learning, Automated ML, Automated Visualization** by perusing the README pages here.
 
