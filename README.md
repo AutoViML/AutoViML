@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to AutoViML. We just hit 1300 stars collectively on Github!</h1>
 <h3 align="center">We create innovative Open Source libraries that make data scientists' and machine learning engineers' lives easier and more  productive! </h3>
 
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook)
-![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light)
-
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion)
-![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light)
+|![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light)|![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light)
 
 
 - 🔭 We have just open sourced our most innovative python library to date: [deep_autoviml](https://github.com/AutoViML/deep_autoviml), which makes building tf.keras models and pipelines as easy as the "fit and predict" syntax of scikit-learn while providing numerous options to tinker with model and pipeline layers to meet your most stringent demands (with even a "bring your own model" option!) 
