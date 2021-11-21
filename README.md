@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, Welcome to AutoViML!<br> We just hit 1300 stars collectively on Github.</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
-- 🔭 AutoViML just open sourced our most innovative python library to date: [deep_autoviml](https://github.com/AutoViML/deep_autoviml), which makes building tf.keras models and pipelines as easy as the "fit and predict" syntax of scikit-learn while providing numerous options to tinker with model and pipeline layers to meet your most stringent demands (with even a "bring your own model" option!) 
-
-- 🌱 <b>Other innovative projects we have completed</b>:
-
+- 🌱 <b>Our innovative libraries and repositories so far</b>:
+- 🤝 [deep_autoviml](https://github.com/AutoViML/deep_autoviml) Our most innovative python library to date, which makes building tensorflow keras models and pipelines as easy as "fit and predict".
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code.
 - 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code.
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows
@@ -14,7 +12,6 @@
 
 - 💬 You can learn more about **Deep Learning, Automated ML, Automated Visualization** by perusing the README pages here.
 
-<h3 align="left">Connect with us on Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ram-seshadri-nyc-nj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ram seshadri" height="30" width="40" /></a>
 </p>
@@ -30,4 +27,5 @@
 
 |![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light)|![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light)
 
+<h3 align="left">Connect with us on Linkedin:</h3>
 
