@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Welcome to AutoViML. We just hit 1300 stars collectively on Github!</h1>
-| ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light) | ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light) | 
+| ![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light) | ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light)
 <h3 align="center">We create innovative Open Source libraries that make data scientists' and machine learning engineers' lives easier and more  productive! </h3>
 
 
