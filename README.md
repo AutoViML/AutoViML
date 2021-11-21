@@ -2,7 +2,7 @@
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
 - 🌱 <b>Our innovative libraries and repositories so far</b>:
-- 🤝 [deep_autoviml](https://github.com/AutoViML/deep_autoviml) Our most innovative python library to date, which makes building tensorflow keras models and pipelines as easy as "fit and predict".
+- 🤝 [deep_autoviml](https://github.com/AutoViML/deep_autoviml) Building tensorflow keras models and pipelines is now as easy as "fit and predict".
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code.
 - 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code.
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows
