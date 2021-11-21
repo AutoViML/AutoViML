@@ -14,7 +14,7 @@
 
 - 💬 You can learn more about **Deep Learning, Automated ML, Automated Visualization** by perusing the README pages here.
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ram-seshadri-nyc-nj/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ram seshadri" height="30" width="40" /></a>
 </p>
@@ -25,6 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AutoViML&show_icons=true&locale=en" alt="AutoViML" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AutoViML&" alt="AutoViML" /></p>
+
+<h2 align="left">Kaggle Badges:</h2>
 
 |![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light)|![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light)
 
