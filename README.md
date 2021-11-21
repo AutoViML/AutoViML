@@ -4,8 +4,8 @@
 - 🌱 <b>Our innovative libraries and repositories so far</b>:
 - 🤝 [Deep AutoViML](https://github.com/AutoViML/deep_autoviml) Build tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code. Now with Bokeh and Holoviews to make your charts and dashboards interactive!
-- 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a Single Line of Code. Uses scikit-learn, XGBoost and CatBoost.
-- 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with Dask to handle millions of rows.
+- 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a single line of code. Uses scikit-learn, XGBoost and CatBoost.
+- 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with [DASK](https://dask.org/) to handle millions of rows.
 - 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code..
 
 - 👨‍💻 All of our projects are open sourced and available here at [AutoViML](https://github.com/AutoViML)
