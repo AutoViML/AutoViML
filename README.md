@@ -21,7 +21,7 @@
 
 <h2 align="left">Our Kaggle Badges:</h2>
 
-|![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light)|![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light)
+![notebook](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/notebook/light) ![discussion](https://road-to-kaggle-grandmaster.vercel.app/api/badges/rsesha/discussion/light)
 
 <h3 align="left">Connect with us on Linkedin:</h3>
 <p align="left">
