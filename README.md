@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, Welcome to AutoViML!<br> We just hit 1300 stars collectively on Github.</h1>
+<h1 align="center">Hi 👋, Welcome to AutoViML!<br> We just hit 1400 stars collectively on Github.</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
 - 🌱 <b>Our innovative libraries and repositories so far</b>:
