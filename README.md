@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, Welcome to AutoViML!<br> We just hit 1400 stars collectively on Github</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
-- 🌱 <b>Our innovative libraries and repositories so far</b>:
+🌱 <b>Our innovative libraries and repositories so far</b>:
 - 🤝 [Deep AutoViML](https://github.com/AutoViML/deep_autoviml) Build tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code. Now with Bokeh and Holoviews to make your charts and dashboards interactive!
 - 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a single line of code. Uses scikit-learn, XGBoost and CatBoost.
