@@ -12,8 +12,8 @@
 
 We are excited to announce that AutoViz and Deep_AutoViML are now available as containerized applications on Docker. This means that you can build data pipelines using a fantastic tool like [orchest.io](orchest.io) to build MLOps pipelines visually. Here are two sample pipelines we have created:
 
-AutoViz pipeline: https://lnkd.in/g5uC-z66
-Deep_AutoViML pipeline: https://lnkd.in/gdnWTqCG
+<b>AutoViz pipeline</b>: https://lnkd.in/g5uC-z66
+<b>Deep_AutoViML pipeline</b>: https://lnkd.in/gdnWTqCG
 
 You can find more examples and a wonderful video on [orchest's web site](https://github.com/orchest/orchest-examples)
 ![banner](https://github.com/rsesha/autoviz_pipeline/blob/main/autoviz_orchest.png)
