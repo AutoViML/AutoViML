@@ -8,7 +8,7 @@
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with [DASK](https://dask.org/) to handle millions of rows.
 - 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
 
-## AutoViz now does Dockers! #autoviz #python3 #keras
+## AutoViz now does Dockers! #autoviz #python3 #orchest
 
 We are excited to announce that AutoViz and Deep_AutoViML are now available as containerized applications on Docker. This means that you can build data pipelines using a fantastic tool like [orchest.io](orchest.io) to build MLOps pipelines visually. Here are two sample pipelines we have created:
 
