@@ -1,12 +1,17 @@
 <h1 align="center">Hi 👋, Welcome to AutoViML!<br> We just hit 1400 stars collectively on Github</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
-🌱 <b>Our innovative libraries and repositories so far</b>:
+## Our innovative libraries and repositories so far:
 - 🤝 [Deep AutoViML](https://github.com/AutoViML/deep_autoviml) Build tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualize any dataset, any size with a single line of code. Now with Bokeh and Holoviews to make your charts and dashboards interactive!
 - 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically Build Multiple ML Models with a single line of code. Uses scikit-learn, XGBoost and CatBoost.
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with [DASK](https://dask.org/) to handle millions of rows.
 - 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
+
+## Update: AutoViz now does Wordclouds! #autoviz #wordcloud
+
+AutoViz can now create Wordclouds automatically for your NLP variables in data. It detects NLP variables automatically and creates wordclouds for them.
+
 
 ## AutoViz now does Dockers! #autoviz #python3 #orchest
 
