@@ -11,7 +11,7 @@
 ### Update: AutoViz now does Wordclouds! #autoviz #wordcloud
 
 AutoViz can now create Wordclouds automatically for your NLP variables in data. It detects NLP variables automatically and creates wordclouds for them.
-<img align="center" src="https://i.postimg.cc/TwLJS5kx/wordclouds.png">
+<img align="center" src="https://i.postimg.cc/vTRbQP4q/wordclouds.png">
 
 ### AutoViz now runs on Docker containers as part of MLOps pipelines. Check out Orchest.io
 
