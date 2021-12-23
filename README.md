@@ -12,15 +12,7 @@
 AutoViz can now create Wordclouds automatically for your NLP variables in data. It detects NLP variables automatically and creates wordclouds for them.
 <img align="center" src="https://i.postimg.cc/DyT466xP/wordclouds.png">
 
-### Dec-17-2021 AutoViz now uses HoloViews to display dashboards with Bokeh and save them as Dynamic HTML for web serving #HTML #Bokeh #Holoviews
-Now you can use AutoViz to create Interactive Bokeh charts and dashboards (see below) either in Jupyter Notebooks or in the browser. Use chart_format as follows:
-- `chart_format='bokeh'`: interactive Bokeh dashboards are plotted in Jupyter Notebooks.
-- `chart_format='server'`, dashboards will pop up for each kind of chart on your web browser.
-- `chart_format='html'`, interactive Bokeh charts will be silently saved as Dynamic HTML files under `AutoViz_Plots` directory
-<img align="center" src="https://i.postimg.cc/MTCZ6GzQ/Auto-Viz-HTML-dashboards.png" />
-
-### AutoViz now runs on Docker containers as part of MLOps pipelines. Check out Orchest.io
-
+### Dec 21, 2021: AutoViz now runs on Docker containers as part of MLOps pipelines. Check out Orchest.io
 We are excited to announce that AutoViz and Deep_AutoViML are now available as containerized applications on Docker. This means that you can build data pipelines using a fantastic tool like [orchest.io](orchest.io) to build MLOps pipelines visually. Here are two sample pipelines we have created:
 
 <b>AutoViz pipeline</b>: https://lnkd.in/g5uC-z66
@@ -28,6 +20,13 @@ We are excited to announce that AutoViz and Deep_AutoViML are now available as c
 
 You can find more examples and a wonderful video on [orchest's web site](https://github.com/orchest/orchest-examples)
 ![banner](https://github.com/rsesha/autoviz_pipeline/blob/main/autoviz_orchest.png)
+
+### Dec-17-2021 AutoViz now uses HoloViews to display dashboards with Bokeh and save them as Dynamic HTML for web serving #HTML #Bokeh #Holoviews
+Now you can use AutoViz to create Interactive Bokeh charts and dashboards (see below) either in Jupyter Notebooks or in the browser. Use chart_format as follows:
+- `chart_format='bokeh'`: interactive Bokeh dashboards are plotted in Jupyter Notebooks.
+- `chart_format='server'`, dashboards will pop up for each kind of chart on your web browser.
+- `chart_format='html'`, interactive Bokeh charts will be silently saved as Dynamic HTML files under `AutoViz_Plots` directory
+<img align="center" src="https://i.postimg.cc/MTCZ6GzQ/Auto-Viz-HTML-dashboards.png" />
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
