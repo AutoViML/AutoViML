@@ -8,10 +8,16 @@
 - 🤝 [Auto-TS](https://github.com/AutoViML/Auto_TS) Automatically build ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with [DASK](https://dask.org/) to handle millions of rows.
 - 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Use advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
 
-### Update: AutoViz now does Wordclouds! #autoviz #wordcloud
-
+### Dec-23-2021 Update: AutoViz now does Wordclouds! #autoviz #wordcloud
 AutoViz can now create Wordclouds automatically for your NLP variables in data. It detects NLP variables automatically and creates wordclouds for them.
 <img align="center" src="https://i.postimg.cc/DyT466xP/wordclouds.png">
+
+### Dec-17-2021 AutoViz now uses HoloViews to display dashboards with Bokeh and save them as Dynamic HTML for web serving #HTML #Bokeh #Holoviews
+Now you can use AutoViz to create Interactive Bokeh charts and dashboards (see below) either in Jupyter Notebooks or in the browser. Use chart_format as follows:
+- `chart_format='bokeh'`: interactive Bokeh dashboards are plotted in Jupyter Notebooks.
+- `chart_format='server'`, dashboards will pop up for each kind of chart on your web browser.
+- `chart_format='html'`, interactive Bokeh charts will be silently saved as Dynamic HTML files under `AutoViz_Plots` directory
+<img align="center" src="https://i.postimg.cc/MTCZ6GzQ/Auto-Viz-HTML-dashboards.png" />
 
 ### AutoViz now runs on Docker containers as part of MLOps pipelines. Check out Orchest.io
 
