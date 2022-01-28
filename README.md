@@ -1,4 +1,4 @@
-<h1 align="center">👋 Welcome to the AutoViML Fan Club Page!<br> We just hit 1500 stars collectively on Github!!</h1>
+<h1 align="center">👋 Welcome to the AutoViML Fan Club Page!<br> We just hit 1600 stars collectively on Github!!</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
 ### Our innovative libraries so far:
@@ -7,6 +7,10 @@
 - 🤝 [Auto_TS](https://github.com/AutoViML/Auto_TS) Automatically builds ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with [DASK](https://dask.org/) to handle millions of rows.
 - 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Uses advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
 - 🤝 [Deep_AutoViML](https://github.com/AutoViML/deep_autoviml) Builds tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
+
+### Jan-2022: Major upgrade to featurewiz: you can select features in MLOps pipelines #MLOps #featureselection
+As of version 0.0.90, featurewiz has a scikit-learn compatible feature selection transformer called FeatureWiz. You can use it to perform fit and predict as follows. You will get a Scikit-Learn Transformer object that you can add it to other data pipelines in MLops to select the top variables from your dataset. 
+<a href="https://ibb.co/L1MDsXC"><img src="https://i.ibb.co/VTd0kcv/featurewiz-class2.jpg" alt="featurewiz-class2" border="0" /></a>
 
 ### Dec-23-2021 Update: AutoViz now does Wordclouds! #autoviz #wordcloud
 AutoViz can now create Wordclouds automatically for your NLP variables in data. It detects NLP variables automatically and creates wordclouds for them.
