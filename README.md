@@ -10,7 +10,7 @@
 
 ### Jan-2022: Major upgrade to featurewiz: you can select features in MLOps pipelines #MLOps #featureselection
 As of version 0.0.90, featurewiz has a scikit-learn compatible feature selection transformer called FeatureWiz. You can use it to perform fit and predict as follows. You will get a Scikit-Learn Transformer object that you can add it to other data pipelines in MLops to select the top variables from your dataset. <br>
-<a href="https://ibb.co/L1MDsXC"><img align="center" src="https://i.ibb.co/VTd0kcv/featurewiz-class2.jpg" alt="featurewiz-class2" border="0" /></a>
+<a href="https://github.com/AutoViML/featurewiz"><img align="center" src="https://i.ibb.co/VTd0kcv/featurewiz-class2.jpg" alt="featurewiz-class2" border="0" /></a>
 
 ### Dec-23-2021 Update: AutoViz now does Wordclouds! #autoviz #wordcloud
 AutoViz can now create Wordclouds automatically for your NLP variables in data. It detects NLP variables automatically and creates wordclouds for them.
