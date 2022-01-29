@@ -3,9 +3,11 @@
 [![Updated Badge](https://badges.pufler.dev/updated/AutoViML/featurewiz)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/AutoViML)](https://badges.pufler.dev)
 Join our elite team of contributors!
-[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/AutoViz?size=50&padding=5&bots=true)](https://badges.pufler.dev)
-[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/deep_autoviml?size=50&padding=5&bots=true)](https://badges.pufler.dev)
-[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/Auto_TS?size=50&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/AutoViz?size=40&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/deep_autoviml?size=40&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/Auto_TS?size=40&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/featurewiz?size=40&padding=5&bots=true)](https://badges.pufler.dev)
+[![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/Auto_ViML?size=40&padding=5&bots=true)](https://badges.pufler.dev)
 <h1 align="center">👋 Welcome to the AutoViML Home Page!<br> We just hit 1600 stars collectively on Github!!</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
