@@ -17,7 +17,7 @@ Join our elite team of contributors!
 - 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Uses advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
 - 🤝 [Deep_AutoViML](https://github.com/AutoViML/deep_autoviml) Builds tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
 
-### Jan-2022: Major upgrade to featurewiz: you can select features in MLOps pipelines #MLOps #featureselection
+### Jan-2022: Major upgrade to featurewiz: you can now perform feature selection thru fit and transform #MLOps #featureselection
 As of version 0.0.90, featurewiz has a scikit-learn compatible feature selection transformer called FeatureWiz. You can use it to perform fit and predict as follows. You will get a Scikit-Learn Transformer object that you can add it to other data pipelines in MLops to select the top variables from your dataset. <br>
 <a href="https://github.com/AutoViML/featurewiz"><img align="center" src="https://i.ibb.co/VTd0kcv/featurewiz-class2.jpg" alt="featurewiz-class2" border="0" /></a>
 
