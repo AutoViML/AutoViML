@@ -6,7 +6,7 @@ Join our Elite team of Contributors!
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/AutoViz?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/deep_autoviml?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/Auto_TS?size=50&padding=5&bots=true)](https://badges.pufler.dev)
-<h1 align="center">👋 Welcome to the AutoViML Fan Club Page!<br> We just hit 1600 stars collectively on Github!!</h1>
+<h1 align="center">👋 Welcome to the AutoViML Home Page!<br> We just hit 1600 stars collectively on Github!!</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
 ### Our innovative libraries so far:
