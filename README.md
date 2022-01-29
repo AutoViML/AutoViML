@@ -2,7 +2,7 @@
 [![Repos Badge](https://badges.pufler.dev/repos/AutoViML)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/AutoViML/featurewiz)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/AutoViML)](https://badges.pufler.dev)
-Join our Elite team of Contributors!
+Join our elite team of contributors!
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/AutoViz?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/deep_autoviml?size=50&padding=5&bots=true)](https://badges.pufler.dev)
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/Auto_TS?size=50&padding=5&bots=true)](https://badges.pufler.dev)
