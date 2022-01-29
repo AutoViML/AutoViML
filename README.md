@@ -1,6 +1,6 @@
 [![Visits Badge](https://badges.pufler.dev/visits/AutoViML/AutoViML)](https://badges.pufler.dev)
 [![Repos Badge](https://badges.pufler.dev/repos/AutoViML)](https://badges.pufler.dev)
-[![Updated Badge](https://badges.pufler.dev/updated/AutoViML/git-badges)](https://badges.pufler.dev)
+[![Updated Badge](https://badges.pufler.dev/updated/AutoViML/featurewiz)](https://badges.pufler.dev)
 <h1 align="center">👋 Welcome to the AutoViML Fan Club Page!<br> We just hit 1600 stars collectively on Github!!</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 
