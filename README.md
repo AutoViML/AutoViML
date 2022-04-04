@@ -18,7 +18,7 @@ Join our elite team of contributors!
 - 🤝 [Deep_AutoViML](https://github.com/AutoViML/deep_autoviml) Builds tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
 - 🤝 [lazytransform](https://github.com/AutoViML/lazytransform) Automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 
-### April-2022: Released a major new library "LazyTransform" #featureengineering #featureselection
+### April-2022: Released a major new python library "lazytransform" #featureengineering #featureselection
 On April 3, 2022, we released a major new Python library called "lazytransform" that will automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 <a href="https://github.com/AutoViML/lazytransform"><img align="center" src="https://i.ibb.co/9n2KTw0/lazy-code.png" alt="lazytransform" border="0" /></a>
 
