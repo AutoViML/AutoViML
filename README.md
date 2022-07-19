@@ -11,6 +11,7 @@ Join our elite team of contributors!
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AutoViML&label=Profile%20views&style=for-the-badge" alt="kanchitank"/>
 </p>
+<br>
 ### Our innovative libraries so far:
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualizes any dataset, any size with a single line of code. Now with Bokeh and Holoviews it can make your charts and dashboards interactive!
 - 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically builds multiple ML models with a single line of code. Uses scikit-learn, XGBoost and CatBoost.
