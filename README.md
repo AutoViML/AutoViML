@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AutoViML&label=Profile%20views&style=for-the-badge" alt="kanchitank"/>
-</p>
-https://komarev.com/ghpvc/?username=AutoViML&label=Profile%20views&style=for-the-badge
+<img src="https://komarev.com/ghpvc/?username=AutoViML&label=Profile%20views&style=for-the-badge" alt="kanchitank"/>
 [![Repos Badge](https://badges.pufler.dev/repos/AutoViML)](https://badges.pufler.dev)
 [![Updated Badge](https://badges.pufler.dev/updated/AutoViML/featurewiz)](https://badges.pufler.dev)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/AutoViML)](https://badges.pufler.dev)
