@@ -8,10 +8,10 @@ Join our elite team of contributors!
 ![image2000](image2000.png)
 <h1 align="center">👋 Welcome to the AutoViML Fan Club Page!<br> We just hit 2000 stars collectively for all AutoViML libraries on Github!!</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
-<p align="center">
+<h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=AutoViML&label=Profile%20views&style=for-the-badge" alt="kanchitank"/>
-</p>
-<br>
+</h3>
+
 ### Our innovative libraries so far:
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualizes any dataset, any size with a single line of code. Now with Bokeh and Holoviews it can make your charts and dashboards interactive!
 - 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically builds multiple ML models with a single line of code. Uses scikit-learn, XGBoost and CatBoost.
