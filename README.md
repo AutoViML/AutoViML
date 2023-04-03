@@ -6,7 +6,7 @@ Join our elite team of contributors!
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/Auto_TS?size=40&padding=5&bots=true)](https://badges.pufler.dev)
 [![Contributors Display](https://badges.pufler.dev/contributors/AutoViML/featurewiz?size=40&padding=5&bots=true)](https://badges.pufler.dev)
 ![image2000](image2000.png)
-<h1 align="center">👋 Welcome to the AutoViML Fan Club Page!<br> We just hit 2200 stars collectively for all AutoViML libraries on Github!!</h1>
+<h1 align="center">👋 Welcome to the AutoViML Fan Club Page!<br> We just hit 2800 stars collectively for all AutoViML libraries on Github!!</h1>
 <h3 align="center">AutoViML creates innovative Open Source libraries to make data scientists' and machine learning engineers' lives easier and more productive! </h3>
 <h3 align="center">
   <img src="https://komarev.com/ghpvc/?username=AutoViML&label=Profile%20views&style=for-the-badge" alt="kanchitank"/>
@@ -19,7 +19,11 @@ Join our elite team of contributors!
 - 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Uses advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
 - 🤝 [Deep_AutoViML](https://github.com/AutoViML/deep_autoviml) Builds tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
 - 🤝 [lazytransform](https://github.com/AutoViML/lazytransform) Automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
+- 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
 
+### April-2023: Released a major new python library "pandas_dq" #data_quality #dataengineering
+On April 2, 2023, we released a major new Python library called "pandas_dq" that will automatically find and fix data quality issuesin your train and test dataframes in a single line of code, for any data, set any size. 
+<a href="https://github.com/AutoViML/lazytransform"><img align="center"  src="https://i.ibb.co/X5dDqFv/fix-dq-screenshot.png" alt="fix-dq-screenshot" border="0"></a>
 ### April-2022: Released a major new python library "lazytransform" #featureengineering #featureselection
 On April 3, 2022, we released a major new Python library called "lazytransform" that will automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 <a href="https://github.com/AutoViML/lazytransform"><img align="center" src="https://i.ibb.co/9n2KTw0/lazy-code.png" alt="lazytransform" border="0" /></a>
