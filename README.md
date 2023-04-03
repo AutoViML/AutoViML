@@ -23,7 +23,7 @@ Join our elite team of contributors!
 
 ### April-2023: Released a major new python library "pandas_dq" #data_quality #dataengineering
 On April 2, 2023, we released a major new Python library called "pandas_dq" that will automatically find and fix data quality issuesin your train and test dataframes in a single line of code, for any data, set any size. 
-<a href="https://github.com/AutoViML/lazytransform"><img align="center"  src="https://i.ibb.co/X5dDqFv/fix-dq-screenshot.png" alt="fix-dq-screenshot" border="0"></a>
+<a href="[https://ibb.co/X5dDqFv](https://github.com/AutoViML/pandas_dq)"><img src="https://i.ibb.co/vdrhSLK/fix-dq-screenshot.png" alt="fix-dq-screenshot" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>how many pixels wide is my screen</a><br />
 
 ### April-2022: Released a major new python library "lazytransform" #featureengineering #featureselection
 On April 3, 2022, we released a major new Python library called "lazytransform" that will automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
