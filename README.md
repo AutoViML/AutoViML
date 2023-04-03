@@ -24,10 +24,11 @@ Join our elite team of contributors!
 ### April-2023: Released a major new python library "pandas_dq" #data_quality #dataengineering
 On April 2, 2023, we released a major new Python library called "pandas_dq" that will automatically find and fix data quality issuesin your train and test dataframes in a single line of code, for any data, set any size. 
 <a href="https://github.com/AutoViML/lazytransform"><img align="center"  src="https://i.ibb.co/X5dDqFv/fix-dq-screenshot.png" alt="fix-dq-screenshot" border="0"></a>
+
 ### April-2022: Released a major new python library "lazytransform" #featureengineering #featureselection
 On April 3, 2022, we released a major new Python library called "lazytransform" that will automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
-<a href="https://github.com/AutoViML/lazytransform"><img align="center" src="https://i.ibb.co/9n2KTw0/lazy-code.png" alt="lazytransform" border="0" /></a>
-
+<a href="https://github.com/AutoViML/lazytransform"><img align="center" src="https://i.ibb.co/vdrhSLK/fix-dq-screenshot.png" alt="fix-dq-screenshot" border="0"></a>  
+                                                                                                                                           
 ### Jan-2022: Major upgrade to featurewiz: you can now perform feature selection thru fit and transform #MLOps #featureselection
 As of version 0.0.90, featurewiz has a scikit-learn compatible feature selection transformer called FeatureWiz. You can use it to perform fit and predict as follows. You will get a Scikit-Learn Transformer object that you can add it to other data pipelines in MLops to select the top variables from your dataset. <br>
 <a href="https://github.com/AutoViML/featurewiz"><img align="center" src="https://i.ibb.co/VTd0kcv/featurewiz-class2.jpg" alt="featurewiz-class2" border="0" /></a>
