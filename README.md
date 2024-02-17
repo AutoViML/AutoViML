@@ -21,7 +21,7 @@ Join our elite team of contributors!
 - 🤝 [lazytransform](https://github.com/AutoViML/lazytransform) Automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 - 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
 
-### Feb-2024: Added "Auto Encoders" for automatic feature extraction to featurrewiz library #feature-extraction
+### Feb-2024: Added "Auto Encoders" for automatic feature extraction to featurewiz library for #feature-extraction
 On Feb 8, 2024, we released a major update to our popular "featurewiz" library that will transform your input into a latent space with a dimension of latent_dim. This lower dimension (similar to PCA) will enable you to extract the best patterns in your data for the toughest imbalanced class and multi-class problems. Try it and let us know! <a href="[https://ibb.co/X5dDqFv](https://github.com/AutoViML/featurewiz)"><img src="https://i.ibb.co/sJsKphR/VAE-model-flowchart.png" alt="autoencoders-screenshot" border="0"></a><br /><a target='_blank' href='https://whatsmyscreenresolution.com/'>how many pixels wide is my screen</a><br />
 
 ### April-2023: Released a major new python library "pandas_dq" #data_quality #dataengineering
