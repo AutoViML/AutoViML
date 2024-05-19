@@ -22,19 +22,19 @@ Join our elite team of contributors!
 - 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
 
 ###  IMPORTANT NOTE TO MY AUTOVIML USERS about pandas-2.0 and other libraries "version 2.0 libraries" like scikit-learn
-I keep getting requests to upgrade my packages to pandas-2.0. I have no problem to do so but if I upgrade your machines to pandas-2.0 the following things will break:
-dask 
-lightgbm
-category_encoders
-imbalanced-learn
-scikit-learn
-matplotlib
-seaborn
-I may have left out thousands of other packages that will break if I merely upgrade your machine to pandas-2.0 without upgrading all those 1000's of other packages to work with pandas-2.0.
-In addition, some of you will have to upgrade your "python" version itself to "3.9 or higher". Are you willing to take such a major leap? 
-How many of us want to spend hours upgrading your python version and all its complexity, so that every package is fixed to work in the new python version? 
-I am not.
-So please upgrade your individual machine to whatever these "2.0" libraries supposedly provide and "enjoy". But until then, stop pestering others to do so.
+I keep getting requests to upgrade my packages to pandas-2.0. I have no problem to do so but if I upgrade your machines to pandas-2.0 the following things will break:<br>
+- dask 
+- lightgbm
+- category_encoders
+- imbalanced-learn
+- scikit-learn
+- matplotlib
+- seaborn<br>
+I may have left out thousands of other packages that will break if I merely upgrade your machine to pandas-2.0 without upgrading all those 1000's of other packages to work with pandas-2.0.<br>
+In addition, some of you will have to upgrade your "python" version itself to "3.9 or higher". Are you willing to take such a major leap? <br>
+How many of us want to spend hours upgrading your python version and all its complexity, so that every package is fixed to work in the new python version? <br>
+I am not.<br>
+So please upgrade your individual machine to whatever these "2.0" libraries supposedly provide and "enjoy". But until then, stop pestering others to do so.<br>
 
 ### Feb-2024: Added "Auto Encoders" for automatic feature extraction to featurewiz library for #feature-extraction
 On Feb 8, 2024, we released a major update to our popular "featurewiz" library that will transform your input into a latent space with a dimension of latent_dim. This lower dimension (similar to PCA) will enable you to extract the best patterns in your data for the toughest imbalanced class and multi-class problems. Try it and let us know! <a href="[https://ibb.co/X5dDqFv](https://github.com/AutoViML/featurewiz)"><img src="https://i.ibb.co/sJsKphR/VAE-model-flowchart.png" alt="autoencoders-screenshot" border="0"></a><br /><a target='_blank' href='https://github.com/AutoViML/featurewiz/blob/main/updates.md'>how to use autoencoders in featurewiz</a><br />
