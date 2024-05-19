@@ -21,7 +21,7 @@ Join our elite team of contributors!
 - 🤝 [lazytransform](https://github.com/AutoViML/lazytransform) Automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 - 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
 
-###  IMPORTANT MESSAGE TO MY AUTOVIML COMMUNITY about pandas-2.0 and other "version 2.0 libraries"
+## AN IMPORTANT MESSAGE TO MY AUTOVIML COMMUNITY about pandas-2.0 and other "version 2.0 libraries"
 I keep getting requests to upgrade my packages to pandas-2.0. I have no problem to do so but if I upgrade your machines to pandas-2.0 the following things will break:<br>
 - dask 
 - lightgbm
