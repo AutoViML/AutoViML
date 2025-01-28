@@ -21,13 +21,14 @@ Join our elite team of contributors!
 - 🤝 [lazytransform](https://github.com/AutoViML/lazytransform) Automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 - 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
 
-## AN IMPORTANT MESSAGE TO MY AUTOVIML COMMUNITY about pandas-2.0
-I have finally taken the plunge to Python 3.12 and pandas 2.0. Yes, it was difficult, but I have now upgraded the following libraries to the latest:
+## AN IMPORTANT MESSAGE TO AUTOVIML FANS about Python 3.12 and pandas 2.0  ###
+I have finally taken the plunge to Python 3.12 and pandas 2.0. Yes, it was difficult, but I have now upgraded the following libraries to the latest versions:
 - featurewiz 
 - autoviz
 - lazytransform
-<br>
+  
 My humble request to everyone who may have some errors after installing my libraries above is to make sure you have these below versions:
+
 - numpy<2
 - category_encoders <=3.6.3
 - xgboost<=1.7.6
@@ -35,6 +36,7 @@ My humble request to everyone who may have some errors after installing my libra
 
 These are my "recommended" versions. So please check your machine to see if these libraries in "correct" versions. <br>
 Wish you all the best and thanks for the support always!<br>
+
 ### Feb-2024: Added "Auto Encoders" for automatic feature extraction to featurewiz library for #feature-extraction
 On Feb 8, 2024, we released a major update to our popular "featurewiz" library that will transform your input into a latent space with a dimension of latent_dim. This lower dimension (similar to PCA) will enable you to extract the best patterns in your data for the toughest imbalanced class and multi-class problems. Try it and let us know! <a href="[https://ibb.co/X5dDqFv](https://github.com/AutoViML/featurewiz)"><img src="https://i.ibb.co/sJsKphR/VAE-model-flowchart.png" alt="autoencoders-screenshot" border="0"></a><br /><a target='_blank' href='https://github.com/AutoViML/featurewiz/blob/main/updates.md'>how to use autoencoders in featurewiz</a><br />
 
