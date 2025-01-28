@@ -22,19 +22,19 @@ Join our elite team of contributors!
 - 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
 
 ## AN IMPORTANT MESSAGE TO AUTOVIML FANS about Python 3.12 and pandas 2.0  ###
-I have finally taken the plunge to Python 3.12 and pandas 2.0. Yes, it was difficult, but I have now upgraded the following libraries to the latest versions:
+I have finally taken the plunge towards Python 3.12 and pandas 2.0. Yes, it was difficult, but I have now upgraded the following libraries to their latest versions:
 - featurewiz 
 - autoviz
 - lazytransform
   
-My humble request to everyone who may have some errors after installing my libraries above is to make sure you have these below versions:
+My humble request to everyone who may have some errors after upgrading my libraries above is to make sure you have these below versions:
 
 - numpy<2
 - category_encoders <=3.6.3
 - xgboost<=1.7.6
 - scikit-learn<=1.5.2
 
-These are my "recommended" versions. So please check your machine to see if these libraries in "correct" versions. <br>
+These are my "recommended" versions of those libraries. So please check your machine to see if these libraries are in "correct" versions. <br>
 Wish you all the best and thanks for the support always!<br>
 
 ### Feb-2024: Added "Auto Encoders" for automatic feature extraction to featurewiz library for #feature-extraction
