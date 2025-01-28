@@ -21,7 +21,7 @@ Join our elite team of contributors!
 - 🤝 [lazytransform](https://github.com/AutoViML/lazytransform) Automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 - 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
 
-## AN IMPORTANT MESSAGE TO AUTOVIML FANS about Python 3.12 and pandas 2.0  ###
+## AUTO-VIML LIBRARIES have been upgraded now to be compatible with Python 3.12 and pandas 2.0  ###
 I have finally taken the plunge towards Python 3.12 and pandas 2.0. Yes, it was difficult, but I have now upgraded the following libraries to their latest versions:
 - featurewiz 
 - autoviz
