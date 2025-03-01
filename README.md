@@ -16,10 +16,15 @@ Join our elite team of contributors!<br>
 - 🤝 [AutoViz](https://github.com/AutoViML/AutoViz) Automatically Visualizes any dataset, any size with a single line of code. Now with Bokeh and Holoviews it can make your charts and dashboards interactive!
 - 🤝 [Auto_ViML](https://github.com/AutoViML/Auto_ViML) Automatically builds multiple ML models with a single line of code. Uses scikit-learn, XGBoost and CatBoost.
 - 🤝 [Auto_TS](https://github.com/AutoViML/Auto_TS) Automatically builds ARIMA, SARIMAX, VAR, FB Prophet and XGBoost Models on Time Series data sets with a Single Line of Code. Now updated with [DASK](https://dask.org/) to handle millions of rows.
-- 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Uses advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
 - 🤝 [Deep_AutoViML](https://github.com/AutoViML/deep_autoviml) Builds tensorflow keras models and pipelines for any data set, any size with text, image and tabular data, with a single line of code.
+- 🤝 [Featurewiz](https://github.com/AutoViML/featurewiz) Uses advanced feature engineering strategies and select the best features from your data set fast with a single line of code. Now updated with DASK to handle millions of rows.
+- 🤝 [Featurewiz-Polars](https://github.com/AutoViML/featurewiz_polars) Blazing fast feature engineering and selection using mRMR algorithm and Polars. Also includes categorical and date-time feature handling as well as nans and nulls automatically. This is the simplest and best feature selection tool to use.
 - 🤝 [lazytransform](https://github.com/AutoViML/lazytransform) Automatically transform all categorical, date-time, NLP variables to numeric in a single line of code, for any data, set any size. 
 - 🤝 [pandas_dq](https://github.com/AutoViML/pandas_dq) Automatically find and fix data quality issues in your dataset with a single line of code, for pandas.
+ 
+## BREAKING News! featurewiz is now blazing fast thanks to Polars!
+A new library named featurewiz-polars has been released to open source. You can check it out <a href="https://github.com/AutoViML/featurewiz_polars" >here</a>. 
+This library was born out of the need for efficient feature engineering when working with large datasets using the Polars library. It includes all the feature selection and categorical encoding methods of featurewiz but is computationally inexpensive and memory-efficient for large datasets. You must check it out.
 
 ## BREAKING News! AUTO-VIML libraries have been upgraded to be compatible with Python 3.12 and pandas 2.0  ###
 I have finally taken the plunge towards Python 3.12 and pandas 2.0. Yes, it was difficult, but I have now upgraded the following libraries to their latest versions:
